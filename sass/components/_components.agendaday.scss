@@ -1,0 +1,9 @@
+.Day{
+  display: inline-block;
+  padding: 0 10px 0;
+  margin: 10px 10px;
+
+  &__weekday{
+    flex: 1;
+  }
+}
